@@ -148,18 +148,6 @@ A responsive beauty and wellness platform designed to simplify service discovery
 
 </div>
 
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DemiGod00001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Joseph Brew's GitHub trophies" />
-
-</div>
-
----
-
 ## 💡 Developer Quote
 
 <div align="center">

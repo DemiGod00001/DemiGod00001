@@ -134,30 +134,6 @@ A responsive beauty and wellness platform designed to simplify service discovery
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DemiGod00001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Joseph Brew's GitHub statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemiGod00001&layout=compact&theme=tokyonight&hide_border=true" alt="Joseph Brew's most-used languages" />
-
-<br/>
-
-<img width="60%" src="https://streak-stats.demolab.com?user=DemiGod00001&theme=tokyonight&hide_border=true" alt="Joseph Brew's GitHub contribution streak" />
-
-</div>
-
-## 💡 Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote" />
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 I am open to software-development opportunities, collaborative projects, and meaningful contributions to technology-driven products.
